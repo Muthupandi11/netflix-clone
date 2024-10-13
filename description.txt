@@ -1,0 +1,2 @@
+This netflix clone is very simple and attractive using html and css only. 
+this project full credits and created by A.Muthupandi
